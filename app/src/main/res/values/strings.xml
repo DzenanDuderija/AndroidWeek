@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Week2</string>
+    <string name="search">search</string>
+    <string name="enter_movie_name">enter_movie_name</string>
+    <string name="back">back</string>
+    <string name="poster">poster</string>
 </resources>
